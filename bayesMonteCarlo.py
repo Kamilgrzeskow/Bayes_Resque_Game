@@ -10,7 +10,7 @@ SA3_CORNERS = (105, 205, 155, 255)# (LG X,LG Y, PD X, PD Y)
 found_double = []
 found_fixed = []
 
-
+# i made a change to the code
 class Search():
 
 
